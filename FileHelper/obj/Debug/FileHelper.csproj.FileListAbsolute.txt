@@ -1,0 +1,6 @@
+D:\C# Projects\Image Converter\FileHelper\bin\Debug\FileHelper.dll
+D:\C# Projects\Image Converter\FileHelper\bin\Debug\FileHelper.pdb
+D:\C# Projects\Image Converter\FileHelper\obj\Debug\FileHelper.csproj.AssemblyReference.cache
+D:\C# Projects\Image Converter\FileHelper\obj\Debug\FileHelper.csproj.CoreCompileInputs.cache
+D:\C# Projects\Image Converter\FileHelper\obj\Debug\FileHelper.dll
+D:\C# Projects\Image Converter\FileHelper\obj\Debug\FileHelper.pdb

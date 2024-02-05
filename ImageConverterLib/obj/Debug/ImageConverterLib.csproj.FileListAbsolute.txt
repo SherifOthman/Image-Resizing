@@ -1,0 +1,14 @@
+D:\C# Projects\Image Converter\ImageConverterLib\bin\Debug\ImageConverterLib.dll
+D:\C# Projects\Image Converter\ImageConverterLib\bin\Debug\ImageConverterLib.pdb
+D:\C# Projects\Image Converter\ImageConverterLib\obj\Debug\ImageConverterLib.csproj.AssemblyReference.cache
+D:\C# Projects\Image Converter\ImageConverterLib\obj\Debug\ImageConverterLib.csproj.CoreCompileInputs.cache
+D:\C# Projects\Image Converter\ImageConverterLib\obj\Debug\ImageConverterLib.dll
+D:\C# Projects\Image Converter\ImageConverterLib\obj\Debug\ImageConverterLib.pdb
+D:\C# Projects\Image Converter\ImageConverterLib\bin\Debug\Magick.Native-Q16-arm64.dll
+D:\C# Projects\Image Converter\ImageConverterLib\bin\Debug\Magick.Native-Q16-x64.dll
+D:\C# Projects\Image Converter\ImageConverterLib\bin\Debug\Magick.Native-Q16-x86.dll
+D:\C# Projects\Image Converter\ImageConverterLib\bin\Debug\Magick.NET-Q16-AnyCPU.dll
+D:\C# Projects\Image Converter\ImageConverterLib\bin\Debug\Magick.NET.Core.dll
+D:\C# Projects\Image Converter\ImageConverterLib\bin\Debug\Magick.NET-Q16-AnyCPU.xml
+D:\C# Projects\Image Converter\ImageConverterLib\bin\Debug\Magick.NET.Core.xml
+D:\C# Projects\Image Converter\ImageConverterLib\obj\Debug\ImageConverterLib.csproj.CopyComplete

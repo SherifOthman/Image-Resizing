@@ -1,0 +1,29 @@
+D:\C# Projects\Image Converter\Image Converter\bin\Release\Magick.Native-Q16-arm64.dll
+D:\C# Projects\Image Converter\Image Converter\bin\Release\Magick.Native-Q16-x64.dll
+D:\C# Projects\Image Converter\Image Converter\bin\Release\Magick.Native-Q16-x86.dll
+D:\C# Projects\Image Converter\Image Converter\bin\Release\Image Converter.exe.config
+D:\C# Projects\Image Converter\Image Converter\bin\Release\Image Converter.exe
+D:\C# Projects\Image Converter\Image Converter\bin\Release\Image Converter.pdb
+D:\C# Projects\Image Converter\Image Converter\bin\Release\AsyncAwaitBestPractices.dll
+D:\C# Projects\Image Converter\Image Converter\bin\Release\Guna.UI2.dll
+D:\C# Projects\Image Converter\Image Converter\bin\Release\ImageConverterLib.dll
+D:\C# Projects\Image Converter\Image Converter\bin\Release\Magick.NET-Q16-AnyCPU.dll
+D:\C# Projects\Image Converter\Image Converter\bin\Release\Magick.NET.Core.dll
+D:\C# Projects\Image Converter\Image Converter\bin\Release\System.Runtime.CompilerServices.Unsafe.dll
+D:\C# Projects\Image Converter\Image Converter\bin\Release\System.Threading.Tasks.Extensions.dll
+D:\C# Projects\Image Converter\Image Converter\bin\Release\ImageConverterLib.pdb
+D:\C# Projects\Image Converter\Image Converter\bin\Release\AsyncAwaitBestPractices.xml
+D:\C# Projects\Image Converter\Image Converter\bin\Release\Magick.NET-Q16-AnyCPU.xml
+D:\C# Projects\Image Converter\Image Converter\bin\Release\Magick.NET.Core.xml
+D:\C# Projects\Image Converter\Image Converter\bin\Release\System.Runtime.CompilerServices.Unsafe.xml
+D:\C# Projects\Image Converter\Image Converter\bin\Release\System.Threading.Tasks.Extensions.xml
+D:\C# Projects\Image Converter\Image Converter\obj\Release\Image Converter.csproj.AssemblyReference.cache
+D:\C# Projects\Image Converter\Image Converter\obj\Release\Image_Converter.ctrlWaiting.resources
+D:\C# Projects\Image Converter\Image Converter\obj\Release\Image_Converter.frmMain.resources
+D:\C# Projects\Image Converter\Image Converter\obj\Release\Image_Converter.Properties.Resources.resources
+D:\C# Projects\Image Converter\Image Converter\obj\Release\Image_Converter.ctrlImageProcess.resources
+D:\C# Projects\Image Converter\Image Converter\obj\Release\Image Converter.csproj.GenerateResource.cache
+D:\C# Projects\Image Converter\Image Converter\obj\Release\Image Converter.csproj.CoreCompileInputs.cache
+D:\C# Projects\Image Converter\Image Converter\obj\Release\Image Converter.csproj.CopyComplete
+D:\C# Projects\Image Converter\Image Converter\obj\Release\Image Converter.exe
+D:\C# Projects\Image Converter\Image Converter\obj\Release\Image Converter.pdb

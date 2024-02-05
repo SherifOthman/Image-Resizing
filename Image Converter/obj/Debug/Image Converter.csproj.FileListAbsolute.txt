@@ -1,0 +1,29 @@
+D:\C# Projects\Image Converter\Image Converter\bin\Debug\Image Converter.exe.config
+D:\C# Projects\Image Converter\Image Converter\bin\Debug\Image Converter.exe
+D:\C# Projects\Image Converter\Image Converter\bin\Debug\Image Converter.pdb
+D:\C# Projects\Image Converter\Image Converter\obj\Debug\Image Converter.csproj.AssemblyReference.cache
+D:\C# Projects\Image Converter\Image Converter\obj\Debug\Image_Converter.Properties.Resources.resources
+D:\C# Projects\Image Converter\Image Converter\obj\Debug\Image Converter.csproj.GenerateResource.cache
+D:\C# Projects\Image Converter\Image Converter\obj\Debug\Image Converter.csproj.CoreCompileInputs.cache
+D:\C# Projects\Image Converter\Image Converter\obj\Debug\Image Converter.exe
+D:\C# Projects\Image Converter\Image Converter\obj\Debug\Image Converter.pdb
+D:\C# Projects\Image Converter\Image Converter\bin\Debug\Guna.UI2.dll
+D:\C# Projects\Image Converter\Image Converter\obj\Debug\Image Converter.csproj.CopyComplete
+D:\C# Projects\Image Converter\Image Converter\bin\Debug\Magick.Native-Q16-arm64.dll
+D:\C# Projects\Image Converter\Image Converter\bin\Debug\Magick.Native-Q16-x64.dll
+D:\C# Projects\Image Converter\Image Converter\bin\Debug\Magick.Native-Q16-x86.dll
+D:\C# Projects\Image Converter\Image Converter\bin\Debug\Magick.NET-Q16-AnyCPU.dll
+D:\C# Projects\Image Converter\Image Converter\bin\Debug\Magick.NET.Core.dll
+D:\C# Projects\Image Converter\Image Converter\bin\Debug\Magick.NET-Q16-AnyCPU.xml
+D:\C# Projects\Image Converter\Image Converter\bin\Debug\Magick.NET.Core.xml
+D:\C# Projects\Image Converter\Image Converter\bin\Debug\ImageConverterLib.dll
+D:\C# Projects\Image Converter\Image Converter\bin\Debug\ImageConverterLib.pdb
+D:\C# Projects\Image Converter\Image Converter\obj\Debug\Image_Converter.ctrlImageProcess.resources
+D:\C# Projects\Image Converter\Image Converter\obj\Debug\Image_Converter.frmMain.resources
+D:\C# Projects\Image Converter\Image Converter\obj\Debug\Image_Converter.ctrlWaiting.resources
+D:\C# Projects\Image Converter\Image Converter\bin\Debug\AsyncAwaitBestPractices.dll
+D:\C# Projects\Image Converter\Image Converter\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+D:\C# Projects\Image Converter\Image Converter\bin\Debug\System.Threading.Tasks.Extensions.dll
+D:\C# Projects\Image Converter\Image Converter\bin\Debug\AsyncAwaitBestPractices.xml
+D:\C# Projects\Image Converter\Image Converter\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+D:\C# Projects\Image Converter\Image Converter\bin\Debug\System.Threading.Tasks.Extensions.xml

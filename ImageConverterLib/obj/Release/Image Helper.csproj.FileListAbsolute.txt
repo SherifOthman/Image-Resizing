@@ -1,0 +1,14 @@
+D:\C# Projects\Image Converter\ImageConverterLib\bin\Release\Magick.Native-Q16-arm64.dll
+D:\C# Projects\Image Converter\ImageConverterLib\bin\Release\Magick.Native-Q16-x64.dll
+D:\C# Projects\Image Converter\ImageConverterLib\bin\Release\Magick.Native-Q16-x86.dll
+D:\C# Projects\Image Converter\ImageConverterLib\bin\Release\ImageConverterLib.dll
+D:\C# Projects\Image Converter\ImageConverterLib\bin\Release\ImageConverterLib.pdb
+D:\C# Projects\Image Converter\ImageConverterLib\bin\Release\Magick.NET-Q16-AnyCPU.dll
+D:\C# Projects\Image Converter\ImageConverterLib\bin\Release\Magick.NET.Core.dll
+D:\C# Projects\Image Converter\ImageConverterLib\bin\Release\Magick.NET-Q16-AnyCPU.xml
+D:\C# Projects\Image Converter\ImageConverterLib\bin\Release\Magick.NET.Core.xml
+D:\C# Projects\Image Converter\ImageConverterLib\obj\Release\Image Helper.csproj.AssemblyReference.cache
+D:\C# Projects\Image Converter\ImageConverterLib\obj\Release\Image Helper.csproj.CoreCompileInputs.cache
+D:\C# Projects\Image Converter\ImageConverterLib\obj\Release\Image Helper.csproj.CopyComplete
+D:\C# Projects\Image Converter\ImageConverterLib\obj\Release\ImageConverterLib.dll
+D:\C# Projects\Image Converter\ImageConverterLib\obj\Release\ImageConverterLib.pdb
