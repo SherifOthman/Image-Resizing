@@ -1,12 +1,10 @@
-﻿using AsyncAwaitBestPractices;
-using Image_Converter.Properties;
+﻿using Image_Converter.Properties;
 using ImageConverterLib;
 using ImageMagick;
 using System;
 using System.Collections.Generic;
 using System.Diagnostics;
 using System.Drawing;
-using System.Linq;
 using System.Threading;
 using System.Threading.Tasks;
 using System.Windows.Forms;
@@ -269,6 +267,7 @@ namespace Image_Converter
 
         private MagickFormat _GetImageFormat()
         {
+   
             switch (cbImageFormat.SelectedItem.ToString())
             {
                 case "PNG":

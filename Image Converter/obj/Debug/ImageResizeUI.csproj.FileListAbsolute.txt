@@ -1,0 +1,23 @@
+D:\Programming\GitHub-Projects\Image-Resizing\Image Converter\obj\Debug\ImageResizeUI.csproj.AssemblyReference.cache
+D:\Programming\GitHub-Projects\Image-Resizing\Image Converter\obj\Debug\Image_Converter.ctrlWaiting.resources
+D:\Programming\GitHub-Projects\Image-Resizing\Image Converter\obj\Debug\Image_Converter.frmMain.resources
+D:\Programming\GitHub-Projects\Image-Resizing\Image Converter\obj\Debug\Image_Converter.Properties.Resources.resources
+D:\Programming\GitHub-Projects\Image-Resizing\Image Converter\obj\Debug\Image_Converter.ctrlImageProcess.resources
+D:\Programming\GitHub-Projects\Image-Resizing\Image Converter\obj\Debug\ImageResizeUI.csproj.GenerateResource.cache
+D:\Programming\GitHub-Projects\Image-Resizing\Image Converter\obj\Debug\ImageResizeUI.csproj.CoreCompileInputs.cache
+D:\Programming\GitHub-Projects\Image-Resizing\Image Converter\obj\Debug\Image Converter.exe
+D:\Programming\GitHub-Projects\Image-Resizing\Image Converter\obj\Debug\Image Converter.pdb
+D:\Programming\GitHub-Projects\Image-Resizing\Image Converter\bin\Debug\Magick.Native-Q16-arm64.dll
+D:\Programming\GitHub-Projects\Image-Resizing\Image Converter\bin\Debug\Magick.Native-Q16-x64.dll
+D:\Programming\GitHub-Projects\Image-Resizing\Image Converter\bin\Debug\Magick.Native-Q16-x86.dll
+D:\Programming\GitHub-Projects\Image-Resizing\Image Converter\bin\Debug\Image Converter.exe.config
+D:\Programming\GitHub-Projects\Image-Resizing\Image Converter\bin\Debug\Image Converter.exe
+D:\Programming\GitHub-Projects\Image-Resizing\Image Converter\bin\Debug\Image Converter.pdb
+D:\Programming\GitHub-Projects\Image-Resizing\Image Converter\bin\Debug\Guna.UI2.dll
+D:\Programming\GitHub-Projects\Image-Resizing\Image Converter\bin\Debug\ImageConverterLib.dll
+D:\Programming\GitHub-Projects\Image-Resizing\Image Converter\bin\Debug\Magick.NET.Core.dll
+D:\Programming\GitHub-Projects\Image-Resizing\Image Converter\bin\Debug\ImageConverterLib.pdb
+D:\Programming\GitHub-Projects\Image-Resizing\Image Converter\bin\Debug\Magick.NET.Core.xml
+D:\Programming\GitHub-Projects\Image-Resizing\Image Converter\obj\Debug\ImageResizeUI.csproj.CopyComplete
+D:\Programming\GitHub-Projects\Image-Resizing\Image Converter\bin\Debug\Magick.NET-Q16-AnyCPU.dll
+D:\Programming\GitHub-Projects\Image-Resizing\Image Converter\bin\Debug\Magick.NET-Q16-AnyCPU.xml

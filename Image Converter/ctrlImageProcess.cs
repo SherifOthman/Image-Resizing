@@ -1,21 +1,12 @@
-﻿using AsyncAwaitBestPractices;
-using ImageConverterLib;
+﻿using ImageConverterLib;
 using ImageMagick;
 using System;
-using System.Collections.Concurrent;
 using System.Collections.Generic;
-using System.ComponentModel;
-using System.Data;
-using System.Diagnostics;
 using System.Drawing;
 using System.IO;
-using System.Linq;
-using System.Text;
 using System.Threading;
 using System.Threading.Tasks;
-using System.Web.UI.WebControls;
 using System.Windows.Forms;
-using static System.Net.Mime.MediaTypeNames;
 
 namespace Image_Converter
 {
@@ -113,7 +104,6 @@ namespace Image_Converter
                 {
                     using (MagickImage magickImage = new MagickImage(stream))
                     {
-
                         magickImage.Resize(newSize.Width, newSize.Height);
                         //   magickImage.FilterType = FilterType.Lanczos2Sharp;
                         magickImage.Format = imageFormat;
