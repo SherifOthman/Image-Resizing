@@ -33,7 +33,3 @@ It resizes images, converts formats, and saves them in a new folder with progres
 ## 📌 Status
 ✅ Working version complete  
 
----
-
-## 🔗 Links
-- **GitHub Repo:** [link here] 
